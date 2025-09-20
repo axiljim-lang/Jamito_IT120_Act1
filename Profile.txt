@@ -1,0 +1,11 @@
+FirstName: Axil Jim
+MiddleName: Apolentisima
+LastName: Jamito
+Age: 29
+Birthdate: March 7 1996
+Birth Place: Magallanes Agusan Del Norte
+Religion: Catholic
+Father's Occupation: Seller 
+Father's Name: Robert Jamito
+Mother's Name: Arlene Jamito
+Mother's Occupation: House Wife
